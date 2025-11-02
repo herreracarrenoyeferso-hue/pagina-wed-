@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* principio*/
+.principio {
+ background-color: rgb(13, 29, 105);
+}
+.letra1 {
+    color: aliceblue;
+}
